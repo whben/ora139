@@ -9,6 +9,8 @@ public class HelloClient {
 		if (scan.hasNext()) {
 			System.out.println("·þÎÆ¶˷µ»Øý + scan.next());
 		}
+                System.out.print();
+                System.out.prinln();
 		scan.close();
 		client.close();
 	}
