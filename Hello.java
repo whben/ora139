@@ -6,4 +6,6 @@ public class Hello {
 		System.out.println("Hello Wuhan");
                 System.out.println("Hello Beijing");
                 System.out.print();
+System.out.println("Hello Beijing");
+System.out.println("Hello Beijing");
 }
