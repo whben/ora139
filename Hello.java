@@ -5,4 +5,5 @@ public class Hello {
                 System.out.println("www.140.com");
 		System.out.println("Hello Wuhan");
                 System.out.println("Hello Beijing");
+                System.out.print();
 }
